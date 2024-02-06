@@ -1,1 +1,9 @@
 
+2024-02-06 14:42:30,929:DEBUG:lower limit(user entry): 2:
+2024-02-06 14:42:30,930:DEBUG:upper limit(user entry): 10:
+2024-02-06 14:42:30,931:DEBUG:random number(system generated): 10:
+2024-02-06 14:42:32,898:DEBUG:guess(user entry): 8:
+2024-02-06 14:42:35,037:DEBUG:guess(user entry): 5:
+2024-02-06 14:42:38,035:DEBUG:guess(user entry): 3:
+2024-02-06 14:42:40,489:DEBUG:guess(user entry): 7:
+2024-02-06 14:42:42,678:DEBUG:guess(user entry): 9:
