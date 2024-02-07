@@ -1,0 +1,6 @@
+2024-02-07 15:48:45,367:DEBUG:User Input: Paper:
+2024-02-07 15:48:45,368:DEBUG:random choice: Scissors:
+2024-02-07 15:48:45,368:DEBUG:Program Output: I win. Scissors cuts paper.:
+2024-02-07 15:54:28,002:DEBUG:User Input: Rock:
+2024-02-07 15:54:28,003:DEBUG:random choice: Scissors:
+2024-02-07 15:54:28,003:DEBUG:Program Output: You win. Rock crushes scissors.:
