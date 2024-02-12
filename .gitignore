@@ -1,4 +1,5 @@
 /.idea
 /venv
+/data
 main.py
 test.py
